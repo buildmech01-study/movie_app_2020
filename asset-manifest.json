@@ -1,24 +1,19 @@
 {
   "files": {
-    "main.css": "/movie_app_2020/static/css/main.5f361e03.chunk.css",
-    "main.js": "/movie_app_2020/static/js/main.c9c92dde.chunk.js",
-    "main.js.map": "/movie_app_2020/static/js/main.c9c92dde.chunk.js.map",
+    "main.js": "/movie_app_2020/static/js/main.aa7b5124.chunk.js",
+    "main.js.map": "/movie_app_2020/static/js/main.aa7b5124.chunk.js.map",
     "runtime-main.js": "/movie_app_2020/static/js/runtime-main.83f6590a.js",
     "runtime-main.js.map": "/movie_app_2020/static/js/runtime-main.83f6590a.js.map",
-    "static/js/2.93846594.chunk.js": "/movie_app_2020/static/js/2.93846594.chunk.js",
-    "static/js/2.93846594.chunk.js.map": "/movie_app_2020/static/js/2.93846594.chunk.js.map",
+    "static/js/2.de35ea60.chunk.js": "/movie_app_2020/static/js/2.de35ea60.chunk.js",
+    "static/js/2.de35ea60.chunk.js.map": "/movie_app_2020/static/js/2.de35ea60.chunk.js.map",
     "index.html": "/movie_app_2020/index.html",
-    "precache-manifest.b16b6549fa75d4b0767b54c58a94e331.js": "/movie_app_2020/precache-manifest.b16b6549fa75d4b0767b54c58a94e331.js",
+    "precache-manifest.43100d7bb75ab8f9e6e851eb35daaba6.js": "/movie_app_2020/precache-manifest.43100d7bb75ab8f9e6e851eb35daaba6.js",
     "service-worker.js": "/movie_app_2020/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/movie_app_2020/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.93846594.chunk.js.LICENSE.txt": "/movie_app_2020/static/js/2.93846594.chunk.js.LICENSE.txt",
-    "static/media/emoticon.png": "/movie_app_2020/static/media/emoticon.a1149cc8.png",
-    "static/media/logo.svg": "/movie_app_2020/static/media/logo.5d5d9eef.svg"
+    "static/js/2.de35ea60.chunk.js.LICENSE.txt": "/movie_app_2020/static/js/2.de35ea60.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.83f6590a.js",
-    "static/js/2.93846594.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.c9c92dde.chunk.js"
+    "static/js/2.de35ea60.chunk.js",
+    "static/js/main.aa7b5124.chunk.js"
   ]
 }
